@@ -42,3 +42,14 @@
 - 마일드 스톤 -> [iOS] [FE] [BE]
 - issue -> 마일드 스톤에 issue 추가하여 관리 
 - project -> 프로젝트생성 후 todo doing done 기록 
+
+
+<br>
+
+## FE
+
+https://user-images.githubusercontent.com/61257242/123772782-14174580-d907-11eb-98dc-da46285853f1.mp4
+
+<br>
+
+![녹화_2021_06_04_00_30_58_903](https://user-images.githubusercontent.com/61257242/123772995-43c64d80-d907-11eb-9584-646813d92ef8.gif)
